@@ -1,5 +1,5 @@
 # ARIMA
 
-## Timeseries-ARIMAGoal 
+## Timeseries-ARIMA 
 
 ### Univariate time series forecasting techniques 
